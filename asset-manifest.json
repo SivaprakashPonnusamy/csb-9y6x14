@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "https://sivaprakashponnusamy.github.io/csb-9y6x14/static/css/main.f0c39469.chunk.css",
-    "main.js": "https://sivaprakashponnusamy.github.io/csb-9y6x14/static/js/main.25c56aca.chunk.js",
-    "main.js.map": "https://sivaprakashponnusamy.github.io/csb-9y6x14/static/js/main.25c56aca.chunk.js.map",
+    "main.js": "https://sivaprakashponnusamy.github.io/csb-9y6x14/static/js/main.8d236683.chunk.js",
+    "main.js.map": "https://sivaprakashponnusamy.github.io/csb-9y6x14/static/js/main.8d236683.chunk.js.map",
     "runtime-main.js": "https://sivaprakashponnusamy.github.io/csb-9y6x14/static/js/runtime-main.bc5afd11.js",
     "runtime-main.js.map": "https://sivaprakashponnusamy.github.io/csb-9y6x14/static/js/runtime-main.bc5afd11.js.map",
-    "static/js/2.60e611c8.chunk.js": "https://sivaprakashponnusamy.github.io/csb-9y6x14/static/js/2.60e611c8.chunk.js",
-    "static/js/2.60e611c8.chunk.js.map": "https://sivaprakashponnusamy.github.io/csb-9y6x14/static/js/2.60e611c8.chunk.js.map",
+    "static/js/2.0100b760.chunk.js": "https://sivaprakashponnusamy.github.io/csb-9y6x14/static/js/2.0100b760.chunk.js",
+    "static/js/2.0100b760.chunk.js.map": "https://sivaprakashponnusamy.github.io/csb-9y6x14/static/js/2.0100b760.chunk.js.map",
     "index.html": "https://sivaprakashponnusamy.github.io/csb-9y6x14/index.html",
     "static/css/main.f0c39469.chunk.css.map": "https://sivaprakashponnusamy.github.io/csb-9y6x14/static/css/main.f0c39469.chunk.css.map",
-    "static/js/2.60e611c8.chunk.js.LICENSE.txt": "https://sivaprakashponnusamy.github.io/csb-9y6x14/static/js/2.60e611c8.chunk.js.LICENSE.txt"
+    "static/js/2.0100b760.chunk.js.LICENSE.txt": "https://sivaprakashponnusamy.github.io/csb-9y6x14/static/js/2.0100b760.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.bc5afd11.js",
-    "static/js/2.60e611c8.chunk.js",
+    "static/js/2.0100b760.chunk.js",
     "static/css/main.f0c39469.chunk.css",
-    "static/js/main.25c56aca.chunk.js"
+    "static/js/main.8d236683.chunk.js"
   ]
 }
