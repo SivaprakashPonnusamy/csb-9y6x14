@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "https://sivaprakashponnusamy.github.io/csb-9y6x14/static/css/main.f0c39469.chunk.css",
-    "main.js": "https://sivaprakashponnusamy.github.io/csb-9y6x14/static/js/main.550c2945.chunk.js",
-    "main.js.map": "https://sivaprakashponnusamy.github.io/csb-9y6x14/static/js/main.550c2945.chunk.js.map",
+    "main.js": "https://sivaprakashponnusamy.github.io/csb-9y6x14/static/js/main.b2e5fc9c.chunk.js",
+    "main.js.map": "https://sivaprakashponnusamy.github.io/csb-9y6x14/static/js/main.b2e5fc9c.chunk.js.map",
     "runtime-main.js": "https://sivaprakashponnusamy.github.io/csb-9y6x14/static/js/runtime-main.bc5afd11.js",
     "runtime-main.js.map": "https://sivaprakashponnusamy.github.io/csb-9y6x14/static/js/runtime-main.bc5afd11.js.map",
-    "static/js/2.13b9f202.chunk.js": "https://sivaprakashponnusamy.github.io/csb-9y6x14/static/js/2.13b9f202.chunk.js",
-    "static/js/2.13b9f202.chunk.js.map": "https://sivaprakashponnusamy.github.io/csb-9y6x14/static/js/2.13b9f202.chunk.js.map",
+    "static/js/2.0427f8d5.chunk.js": "https://sivaprakashponnusamy.github.io/csb-9y6x14/static/js/2.0427f8d5.chunk.js",
+    "static/js/2.0427f8d5.chunk.js.map": "https://sivaprakashponnusamy.github.io/csb-9y6x14/static/js/2.0427f8d5.chunk.js.map",
     "index.html": "https://sivaprakashponnusamy.github.io/csb-9y6x14/index.html",
     "static/css/main.f0c39469.chunk.css.map": "https://sivaprakashponnusamy.github.io/csb-9y6x14/static/css/main.f0c39469.chunk.css.map",
-    "static/js/2.13b9f202.chunk.js.LICENSE.txt": "https://sivaprakashponnusamy.github.io/csb-9y6x14/static/js/2.13b9f202.chunk.js.LICENSE.txt"
+    "static/js/2.0427f8d5.chunk.js.LICENSE.txt": "https://sivaprakashponnusamy.github.io/csb-9y6x14/static/js/2.0427f8d5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.bc5afd11.js",
-    "static/js/2.13b9f202.chunk.js",
+    "static/js/2.0427f8d5.chunk.js",
     "static/css/main.f0c39469.chunk.css",
-    "static/js/main.550c2945.chunk.js"
+    "static/js/main.b2e5fc9c.chunk.js"
   ]
 }
